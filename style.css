@@ -1,0 +1,7 @@
+body{
+    background-color: blue;
+}
+#formulario-perguntar{
+    margin-top: 5vh;
+    /* vh=altura da tela */
+}
